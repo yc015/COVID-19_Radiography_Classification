@@ -1,12 +1,16 @@
 # Project Radiography Classification
 
-Name: Edward Chen  
+Name: Edward (Yida) Chen  
 Class: CSCI 349 - Intro to Data Mining  
 Semester: Spring 2021  
-Instructor: Prof. Brian King
+Instructor: [Prof. Brian King](https://www.bucknell.edu/fac-staff/brian-king)
 
 Dataset: COVID-19 Radiography Database [1][2]  
 Dataset Repository: [Kaggle COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+
+**Presentation:** Radiography Classification: Detect COVID-19 Infection using Chest X-ray Images  
+Recorded presentation video: [https://drive.google.com/file/d/1pF75LO-PgAaRM1mOg8RhnxQGj5nbmeKc/view?usp=sharing](https://drive.google.com/file/d/1pF75LO-PgAaRM1mOg8RhnxQGj5nbmeKc/view?usp=sharing)
+
 
 # 1. Problem Statement: Classifying Pneumonia Infection using CXR Images
 
