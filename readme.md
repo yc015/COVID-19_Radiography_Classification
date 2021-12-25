@@ -47,11 +47,11 @@ These notebooks strive to provide the best reproducibility for the results. I ma
 
 ```python
 >>> import torch
->>> torch.manual_seed(fixed_seed)
+>>> torch.manual_seed(0)
 >>> import random
->>> random.seed(fixed_seed)
+>>> random.seed(0)
 >>> import numpy
->>> numpy.random.seed(fixed_seed)
+>>> numpy.random.seed(0)
 ``` 
 
 Notice that the reproducibility of results from PyTorch modules (e.g. train & test results after retraining the models) is not guaranteed. They may slightly vary across the platforms and devices. See the official documentation of PyTorch for more information about [reproducing the results](https://pytorch.org/docs/stable/notes/randomness.html#reproducibility). These notebooks were running on a Linux 64-bit system on a GPU device with CUDA 10.1.
