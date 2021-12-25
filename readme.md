@@ -8,10 +8,6 @@ Instructor: [Prof. Brian King](https://www.bucknell.edu/fac-staff/brian-king)
 Dataset: COVID-19 Radiography Database [1][2]  
 Dataset Repository: [Kaggle COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
-**Presentation:** Radiography Classification: Detect COVID-19 Infection using Chest X-ray Images  
-Recorded presentation video: [https://drive.google.com/file/d/1pF75LO-PgAaRM1mOg8RhnxQGj5nbmeKc/view?usp=sharing](https://drive.google.com/file/d/1pF75LO-PgAaRM1mOg8RhnxQGj5nbmeKc/view?usp=sharing)
-
-
 # 1. Problem Statement: Classifying Pneumonia Infection using CXR Images
 
 In this project, I work on a **clinical Radiography dataset** that contains 21165 Chest X-ray images from medical institutions [1][2]. Each image has a dimension of 299 x 299 pixels (89401 pixels in total). The project's task is to **classify the patients' pneumonia infection** using **Chest X-ray** images. 
